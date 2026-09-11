@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Language and Keyboard
+Name[nl]=Taal en toetsenbord
+GenericName=Locale Settings
+GenericName[nl]=Taalinstellingen
+Comment=Set the system language and keyboard layout
+Comment[nl]=Stel de taal en de toetsenbordindeling in
+Exec=lxlocale
+Icon=preferences-desktop-locale
+Terminal=false
+Categories=Settings;DesktopSettings;X-LXDE-Settings;
+Keywords=locale;language;keyboard;layout;taal;toetsenbord;
