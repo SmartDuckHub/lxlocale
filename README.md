@@ -81,4 +81,4 @@ weer kwijt, dan verwijder je het blok met de hand.
 
 ## Licentie
 
-GPL-2.0-or-later, net als lxinput.
+3-Clause BSD
