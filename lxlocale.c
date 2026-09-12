@@ -5,7 +5,7 @@
  * Bouwen:  make
  * Vereist: gtk+-3.0, setxkbmap (x11-xkb-utils / x11-xserver-utils)
  *
- * Licentie: GPL-2.0-or-later
+ * Licentie: BSD 3-Clause
  */
 
 #include <gtk/gtk.h>
